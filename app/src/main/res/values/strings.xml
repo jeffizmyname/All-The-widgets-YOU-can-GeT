@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">spotWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Spotify now playing</string>
+    <string name="descriptionIMg">Album cover image</string>
+    <string name="Power_widget_description">app_widget_description</string>
+</resources>

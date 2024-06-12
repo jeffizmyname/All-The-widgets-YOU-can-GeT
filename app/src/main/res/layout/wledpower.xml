@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.SpotWidget.AppWidget.Container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/round_bg"
+    android:backgroundTint="@android:color/system_accent2_700"
+    android:theme="@style/Theme.SpotWidget.AppWidgetContainer">
+
+    <ImageButton
+        android:id="@+id/power"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="TooglePower"
+        android:src="@drawable/baseline_power_settings_new_24"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        style="@android:style/Theme.DeviceDefault"
+        android:padding="30dp"
+        />
+</RelativeLayout>
